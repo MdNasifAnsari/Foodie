@@ -78,3 +78,12 @@ header div h1 {
 .book-table button:hover {
     background: #e85a2a;
 }
+
+a{
+    color: white;
+    text-decoration: none;
+    background: #ff0000;
+    padding: 5px;
+    width: 100px;
+    border-radius: 7px;
+}
